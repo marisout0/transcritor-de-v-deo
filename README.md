@@ -1,7 +1,7 @@
 # Transcritor de vídeo: YouTube e local
 
 ## Como Usar
-
+(https://github.com/marisout0/transcritor-de-v-deo/blob/main/transcritor_mestre.ipynb)
 
 1. Clique no link acima.
 2. Ative a GPU: `Ambiente de execução` > `Alterar tipo...` > `T4 GPU`.
